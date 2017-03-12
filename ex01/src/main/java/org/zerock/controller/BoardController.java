@@ -56,7 +56,7 @@ public class BoardController {
 
   public void registerGET(BoardVO board, Model model) throws Exception {
 
-
+	  //test man
 
     logger.info("register get ...........");
 
